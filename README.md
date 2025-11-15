@@ -7,3 +7,5 @@ Don't forgett the ';' at end of line.
 
 Remember that MySQL is case-sensitve, what is that? 
 Commands will have to be written in uppercase.
+
+- Cheetsheet
